@@ -94,7 +94,7 @@
                             3. Enjoying view from Tokyo Tower, located in Shiba Park <br /> 
                             4. Jogging round the Imperial Palace <br />
                             5. Yakatabune boat trip. A boat that resemble traditional Japanese <br />&nbsp;&nbsp;&nbsp;&nbsp; homes<br /> 
-                            6. Navigate Tokyo&#39;s streets by Odaiba-Asakusa river bus <br />
+                            6. Navigate the tokyo street by using GPS <br />
                             7. A walk in Inokashira Park with interesting activities provided<br />
                             <br />
                         </div>
