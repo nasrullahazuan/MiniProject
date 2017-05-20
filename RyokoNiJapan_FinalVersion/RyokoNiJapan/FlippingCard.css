@@ -27,7 +27,7 @@
 	
 	width: 250px;
 	height: 250px;
-}
+} // so many mistakes here
  
 /* The .back element should be rotated at first, facing his back, hidden*/
 .card .back{
@@ -49,3 +49,6 @@
 	transform: rotateY(0);
 	-webkit-transform: rotateY(0);
 }
+
+//nazihah make so many mistakes in line 20
+// please update
